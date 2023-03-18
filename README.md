@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 
 Damian Smith - damiansmith61@gmail.com \
-Project Link: https://github.com/kenneilsmith\workday_scheduler_module_5
+Project Link: https://github.com/kenneilsmith/workday_scheduler_module_5
