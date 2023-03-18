@@ -17,7 +17,7 @@ This web application is used to create appointments in a work hour scheduler
 
 ## Usage
 
-- click the link - https://kenneilsmith.github.io/password_generator_mod_3/
+- click the link - https://kenneilsmith.github.io/workday_scheduler_module_5/
 
 ## Features
 
@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 
 Damian Smith - damiansmith61@gmail.com \
-Project Link: https://github.com/kenneilsmith/
+Project Link: https://github.com/kenneilsmith\workday_scheduler_module_5
